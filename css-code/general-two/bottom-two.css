@@ -1,0 +1,16 @@
+@media (max-width:1025px) and (min-width:550px) {
+  .the-end {
+    height: 170px;
+    margin-top: 2%;
+  }
+  
+  .the-end a button {
+    margin-top: 22px;
+    border-radius: 3px;
+    padding: 8px 12px;
+  }
+  
+  .the-end p {
+    font-size: 15px;
+  }
+}

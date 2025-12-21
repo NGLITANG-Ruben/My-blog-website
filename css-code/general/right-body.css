@@ -1,0 +1,158 @@
+.first-right-body,
+.second-right-body,
+.third-right-body {
+  padding: 0% 1%;
+  margin:  1% 0% 0% 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+}
+
+.first-right-body {
+  width: 100%;
+}
+
+.right-first-picture,
+.right-second-picture {
+  width: 100%;
+  margin-bottom: -2%;
+}
+
+.right-first-image,
+.right-second-image {
+  width: 100%;
+  height: auto;
+}
+
+.right-first-text-description {
+  text-align: start;
+  padding: 0% 2%;
+  background-color: black;
+  color: white;
+  margin-top: 0;
+}
+
+.right-first-title {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.right-first-text {
+  font-size: 12px;
+}
+
+.second-right-body,
+.third-right-body {
+  margin: 7% 0 2% 0;
+   
+}
+
+.right-second-title,
+.third-second-title {
+  background-color: black;
+  color: white;
+  padding-left: 3%;
+  
+}
+
+.right-second-description {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  margin: 2.5%;
+  padding-bottom: 2.5%;
+  border-bottom: 2px solid rgb(224, 221, 221);
+}
+
+.right-second-description:hover {
+  background-color: rgb(218, 212, 212);
+}
+
+.right-second-picture {
+  width: 13%;
+  margin-bottom: -2%;
+  margin-right: 5%;
+}
+
+.right-second-image {
+  width: 100%;
+  height:90%;
+}
+
+.right-second-text-description {
+  margin: 0;
+}
+
+.name-rstd {
+  margin: 0px;
+  font-weight: bold;
+}
+
+.followers-rstd {
+  margin-bottom: 0px;
+}
+
+.third-second-description {
+  width: 94%;
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 3%;
+  background-color: rgb(209, 204, 204);
+  color: black;
+}
+
+.fourth-second-description {
+  font-size: 15px;
+  text-align: start;
+  margin: 3%;
+  color: black;
+  padding: 4% 1%;
+}
+
+.fourth-second-description span {
+  background-color: black;
+  color: white;
+  padding: 0% 1%;
+}
+
+.fifth-second-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 1.5% 3%;
+}
+
+.image-one,
+.image-two {
+  width: 47%;
+  height: 20%;
+  margin: 1%;
+}
+
+.sixth-second-description {
+  margin: 2.5%;
+}
+
+.sixth-second-description .paragraph1 {
+  font-weight: bold;
+  padding-bottom: 5%;
+  border-bottom: 1px solid rgb(214, 207, 207);
+}
+
+.sixth-second-description .paragraph2 {
+  font-size: 14px;
+  margin-top: 15%;
+}
+
+.sixth-second-description button {
+  width: 100%;
+  background-color: red;
+  font-weight: bold;
+  color: white;
+  border: 1px solid red;
+  padding: 15px 13px;
+  margin: 0% 2%;
+}

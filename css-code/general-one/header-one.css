@@ -1,0 +1,19 @@
+@media (max-width:550px) {
+  .header {
+    padding: 5px 0px;
+  }
+  
+  .title {
+    font-size: 35px;
+    margin: 2px 0 5px 0; 
+  }
+
+  .title-info {
+    font-size: 14px;
+  }
+  
+  .special-title {
+    padding: 0px 5px;
+  }
+   
+}

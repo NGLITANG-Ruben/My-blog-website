@@ -1,0 +1,36 @@
+@media (max-width:550px) {
+  .our {
+    background-color: rgb(241, 237, 237);
+    display: block;
+  }
+
+  .left-body {
+    margin-bottom: 15%;
+  }
+  
+  .heading-left {
+    font-size: 20px;
+    padding: 1.5% 0%;
+  }
+
+  .author {
+    margin-top: 15%;
+  }
+
+  .author-picture-view {
+    height: 70%; 
+  }
+
+  .author-info {
+    margin: -20px 0% 0% 2%;
+  }
+
+  .left-description-text span {
+    display: none;
+  }
+
+  .third-second-description {
+    height: 20vh;
+  }
+
+}
